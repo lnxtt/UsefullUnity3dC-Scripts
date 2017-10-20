@@ -1,4 +1,4 @@
-# UsefullUnity3dC-Scripts
+# Usefull Unity3d C# Scripts
 My Collection of modular useable C# Scripts for Unity3d Games
 
 These are my favourite Scripts, which i use to create my games.
